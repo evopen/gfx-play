@@ -1,0 +1,3 @@
+[submodule "egui-gfx"]
+	path = egui-gfx
+	url = https://github.com/evopen/egui-gfx.git
